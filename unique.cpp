@@ -15,7 +15,6 @@ void individual()
 		{
 			context = context + i + j;
 			cout << "new" << endl;
-			cout << "update" << endl;
 		}
 	}
 }

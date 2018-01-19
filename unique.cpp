@@ -7,6 +7,7 @@ void individual()
 {
 	string context = "test01";
 	int i = 0;
+	int q = 1;
 	int j = 0;
 
 	for (; i < 20; ++i)

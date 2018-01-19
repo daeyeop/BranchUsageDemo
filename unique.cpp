@@ -11,6 +11,7 @@ void individual()
 
 	for (; i < 20; ++i)
 	{
+		//changes
 		for (; j < 20; ++j)
 		{
 			context = context + i + j;
